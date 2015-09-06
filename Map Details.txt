@@ -1,0 +1,8 @@
+Map Area: Vancouver, BC, Canada
+
+https://www.openstreetmap.org/relation/1852574
+http://metro.teczno.com/#vancouver
+
+I decided to do the project on the Vancouver, BC dataset because I grew up and currently live 
+in the city.  I felt that my personal knowledge of Vancouver would help me with auditing and 
+cleaning the dataset.
